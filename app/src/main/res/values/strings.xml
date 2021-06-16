@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalanidhi</string>
+    <string name="downloadStarted">Download started</string>
+    <string name="downloadCompleted">Download Completed</string>
+    <string name="downloadFailed">Failed download</string>
+    <string name="downloadAgain">Try again</string>
+</resources>
